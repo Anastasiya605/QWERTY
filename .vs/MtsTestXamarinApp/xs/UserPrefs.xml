@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{737A8636-E85F-4D6F-A8D7-4E80A340A0F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.MtsTestXamarinApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MtsTestXamarinApp.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MtsTestXamarinApp/App.xaml.cs">
+    <Files>
+      <File FileName="MtsTestXamarinApp/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MtsTestXamarinApp/Views/AboutPage.xaml" />
+      <File FileName="MtsTestXamarinApp/App.xaml.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MtsTestXamarinApp" expanded="True">
+            <Node name="MtsTestXamarinApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MtsTestXamarinApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

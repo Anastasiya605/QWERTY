@@ -1,0 +1,17 @@
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/bin/Debug/netstandard2.0/MtsTestXamarinApp.deps.json
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/bin/Debug/netstandard2.0/MtsTestXamarinApp.dll
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/bin/Debug/netstandard2.0/MtsTestXamarinApp.pdb
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.csprojAssemblyReference.cache
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.csproj.CoreCompileInputs.cache
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.AssemblyInfoInputs.cache
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.AssemblyInfo.cs
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.dll
+/Users/ksvasil7/Projects/MtsTestXamarinApp/MtsTestXamarinApp/obj/Debug/netstandard2.0/MtsTestXamarinApp.pdb
